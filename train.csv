@@ -1,0 +1,101 @@
+Date,Day,Train Name,Train Number,From Station,To Station,Scheduled Arrival,Actual Arrival,Delay (minutes),Passenger Load,Train Type
+1/1/2025,Monday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,18:45,18:55,10,658,Rajdhani
+1/2/2025,Tuesday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,18:15,18:34,19,2285,MMTS
+1/3/2025,Wednesday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,12:30,,23,1801,
+1/4/2025,Thursday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,16:20,16:28,8,1261,MMTS
+1/5/2025,Friday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,16:15,16:22,7,1801,Local
+1/6/2025,Saturday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,17:45,17:57,10,1332,Rajdhani
+1/7/2025,Sunday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,17:10,17:28,18,2138,MMTS
+1/8/2025,Monday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,21:30,21:43,13,806,Local
+1/9/2025,Tuesday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,14:10,14:18,8,2044,
+1/10/2025,Wednesday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,16:40,16:43,3,2151,Superfast
+1/11/2025,Thursday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,18:20,18:25,5,1568,Rajdhani
+1/12/2025,Friday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,19:20,19:24,4,,Superfast
+1/13/2025,Saturday,Mumbai–Patna Express,13202,Mumbai,Patna,9:00,9:14,4,,Express
+1/14/2025,Sunday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,13:30,13:46,16,1011,Local
+1/15/2025,Monday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,11:15,11:23,8,805,Local
+1/16/2025,Tuesday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,16:05,16:15,10,2450,MMTS
+1/17/2025,Wednesday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,19:15,19:27,12,613,
+1/18/2025,Thursday,Mumbai–Patna Express,13202,Mumbai,Patna,9:50,9:03,23,2370,Express
+1/19/2025,Friday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,11:05,11:12,7,1445,Rajdhani
+1/20/2025,Saturday,Mumbai–Patna Express,13202,Mumbai,Patna,16:05,16:06,1,1478,Express
+1/21/2025,Sunday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,13:50,13:09,23,2128,Superfast
+1/22/2025,Monday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,9:10,9:27,17,728,Rajdhani
+1/23/2025,Tuesday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,21:15,,23,1725,Superfast
+1/24/2025,Wednesday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,7:15,7:31,16,842,Superfast
+1/25/2025,Thursday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,18:10,18:30,20,1186,MMTS
+1/26/2025,Friday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,17:40,,23,1213,Superfast
+1/27/2025,Saturday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,22:05,,23,860,Double Decker
+1/28/2025,Sunday,Mumbai–Patna Express,13202,Mumbai,Patna,8:30,8:49,19,,Express
+1/29/2025,Monday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,22:30,22:34,4,1913,Superfast
+1/30/2025,Tuesday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,22:40,22:56,16,1244,
+1/1/2025,Wednesday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,18:10,18:21,11,604,Double Decker
+1/2/2025,Thursday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,16:30,16:48,18,763,Superfast
+1/3/2025,Friday,Mumbai–Patna Express,13202,Mumbai,Patna,20:30,20:48,18,2366,Express
+1/4/2025,Saturday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,9:20,9:20,0,815,MMTS
+1/5/2025,Sunday,Mumbai–Patna Express,13202,Mumbai,Patna,12:05,,23,1423,Express
+1/6/2025,Monday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,10:05,10:13,8,2118,Local
+1/7/2025,Tuesday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,16:50,16:05,23,788,
+1/8/2025,Wednesday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,12:10,12:30,20,,MMTS
+1/9/2025,Thursday,Mumbai–Patna Express,13202,Mumbai,Patna,20:10,20:20,10,965,Express
+1/10/2025,Friday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,20:00,20:17,17,1679,Local
+1/11/2025,Saturday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,8:40,8:59,19,763,Local
+1/12/2025,Sunday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,21:50,21:02,23,2476,Double Decker
+1/13/2025,Monday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,21:15,21:16,1,2297,Rajdhani
+1/14/2025,Tuesday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,15:30,15:45,15,1501,Double Decker
+1/15/2025,Wednesday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,12:20,12:28,8,1032,Double Decker
+1/16/2025,Thursday,Mumbai–Patna Express,13202,Mumbai,Patna,20:10,20:13,3,2243,Express
+1/17/2025,Friday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,12:05,12:10,5,2486,Rajdhani
+1/18/2025,Saturday,Mumbai–Patna Express,13202,Mumbai,Patna,12:20,12:36,16,2164,Express
+1/19/2025,Sunday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,18:30,18:33,3,998,
+1/20/2025,Monday,Mumbai–Patna Express,13202,Mumbai,Patna,6:30,6:42,12,981,Express
+1/21/2025,Tuesday,Mumbai–Patna Express,13202,Mumbai,Patna,8:20,8:39,18,,Express
+1/22/2025,Wednesday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,21:20,,,2216,Double Decker
+1/23/2025,Thursday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,18:45,18:54,10,2450,Superfast
+1/24/2025,Friday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,19:10,,,865,MMTS
+1/25/2025,Saturday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,14:10,14:23,13,1098,MMTS
+1/26/2025,Sunday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,11:20,11:31,11,950,Double Decker
+1/27/2025,Monday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,20:40,,,674,Superfast
+1/28/2025,Tuesday,Mumbai–Patna Express,13202,Mumbai,Patna,20:40,20:58,18,1059,Express
+1/29/2025,Wednesday,Mumbai–Patna Express,13202,Mumbai,Patna,8:45,8:05,0,2034,Express
+1/30/2025,Thursday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,15:00,15:02,2,2056,Rajdhani
+1/1/2025,Friday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,11:10,11:11,1,2266,Local
+1/2/2025,Saturday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,19:00,,,1182,
+1/3/2025,Sunday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,20:15,,,2144,Double Decker
+1/4/2025,Monday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,20:05,20:19,14,2140,MMTS
+1/5/2025,Tuesday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,20:05,20:14,9,1140,MMTS
+1/6/2025,Wednesday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,9:15,,,696,Superfast
+1/7/2025,Thursday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,22:15,22:28,13,1652,Double Decker
+1/8/2025,Friday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,15:20,15:20,0,,Local
+1/9/2025,Saturday,Mumbai–Patna Express,13202,Mumbai,Patna,22:45,22:58,13,999,Express
+1/10/2025,Sunday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,13:10,13:26,16,2155,Superfast
+1/11/2025,Monday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,12:05,12:22,17,908,Local
+1/12/2025,Tuesday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,20:45,20:58,13,848,Double Decker
+1/13/2025,Wednesday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,19:45,19:54,9,1898,Double Decker
+1/14/2025,Thursday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,21:00,21:02,2,1720,MMTS
+1/15/2025,Friday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,13:20,13:38,18,,Local
+1/16/2025,Saturday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,14:50,14:00,0,1942,Rajdhani
+1/17/2025,Sunday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,20:10,20:16,6,1130,Rajdhani
+1/18/2025,Monday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,12:30,12:35,5,955,
+1/19/2025,Tuesday,Mumbai–Patna Express,13202,Mumbai,Patna,21:20,21:26,6,2241,Express
+1/20/2025,Wednesday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,6:00,6:08,8,1091,Superfast
+1/21/2025,Thursday,Howrah–New Delhi Rajdhani,12305,Howrah,New Delhi,21:10,,,681,Rajdhani
+1/22/2025,Friday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,16:00,16:19,19,616,Local
+1/23/2025,Saturday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,9:20,,,2109,Local
+1/24/2025,Sunday,Jaipur–Delhi Double Decker,12985,Jaipur,Delhi,6:20,6:32,12,1699,Double Decker
+1/25/2025,Monday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,14:15,14:15,0,603,Superfast
+1/26/2025,Tuesday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,17:30,17:47,17,860,Superfast
+1/27/2025,Wednesday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,8:20,8:25,5,2480,MMTS
+1/28/2025,Thursday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,6:20,6:28,8,924,MMTS
+1/29/2025,Friday,Mumbai–Patna Express,13202,Mumbai,Patna,15:15,15:28,13,1623,Express
+1/30/2025,Saturday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,11:00,11:12,2,1337,Local
+1/1/2025,Sunday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,20:15,20:33,18,2096,Local
+1/2/2025,Monday,Mumbai–Patna Express,13202,Mumbai,Patna,7:20,7:30,10,1463,Express
+1/3/2025,Tuesday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,7:20,7:25,5,746,Local
+1/4/2025,Wednesday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,13:20,13:30,10,1708,Local
+1/5/2025,Thursday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,11:30,11:43,13,2500,MMTS
+1/6/2025,Friday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,15:15,15:26,11,2036,MMTS
+1/7/2025,Saturday,Hyderabad MMTS (Lingampally–Falaknuma),47170,Lingampally,Falaknuma,7:10,7:19,9,1796,MMTS
+1/8/2025,Sunday,Mumbai CSMT–Karjat Local,10102,Mumbai CSMT,Karjat,22:30,22:36,6,1248,Local
+1/9/2025,Monday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,11:15,11:29,14,1412,Superfast
+1/10/2025,Tuesday,Chennai–Bengaluru Brindavan Express,12639,Chennai,Bengaluru,22:40,22:40,0,2358,Superfast
